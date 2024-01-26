@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi 👋
 
+About me :
+- 📊 Data Engineering
+- ⚡ Gamer and gearhead  
+- 💬 Ask me about how to extract,clean and load your data
+  
 <!--
 **vinirodrigues/vinirodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📊 Data Engineering
+- 
 -->
