@@ -2,7 +2,7 @@
 
 About me :
 - 📊 Data Engineering
-- ⚡ Gamer and gearhead  
+- ⚡ Gamer and Biker   
 - 💬 Ask me about how to extract,clean and load your data
   
 <!--
