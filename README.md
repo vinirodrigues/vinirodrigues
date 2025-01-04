@@ -1,6 +1,6 @@
-Olá 👋
+Olá seja bem-vindo(a)👋
 
-About me :
+Sobre mim :
 - 📊 Engenheiro de Dados  
 - 🚀 Explore minhas soluções e veja como extraio , processo , limpo e transformo dados em valor! 🚀
   
