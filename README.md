@@ -1,9 +1,8 @@
-### Hi 👋
+Olá 👋
 
 About me :
-- 📊 Data Engineering
-- ⚡ Gamer and Biker   
-- 💬 Ask me about how to extract,clean and load your data
+- 📊 Engenheiro de Dados  
+- 🚀 Explore minhas soluções e veja como extraio , processo , limpo e transformo dados em valor! 🚀
   
 <!--
 **vinirodrigues/vinirodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
